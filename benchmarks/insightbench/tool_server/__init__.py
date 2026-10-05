@@ -1,1 +1,0 @@
-"""Insight-Bench MCP servers."""

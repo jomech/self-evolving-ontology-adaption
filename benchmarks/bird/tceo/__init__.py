@@ -1,1 +1,0 @@
-# TCEO Ontology Layer Runtime
